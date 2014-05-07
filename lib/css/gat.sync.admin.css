@@ -1,0 +1,31 @@
+div.gat-sync-tags-list {
+	padding-top: 2em;
+}
+
+div.gat-sync-tags-list h3 {
+
+}
+
+div.gat-sync-tags-list ul {
+	margin: 0 0 0 1em;
+}
+
+div.gat-sync-tags-list ul li {
+	display: block;
+	width: 100%;
+}
+
+div.gat-sync-tags-list ul li span,
+div.gat-sync-tags-list ul li code {
+	display: inline-block;
+	vertical-align: top;
+}
+
+div.gat-sync-tags-list ul li code { width: 200px; text-align: center; margin-right: 1em; }
+div.gat-sync-tags-list ul li span { width: 400px; text-align: left; font-weight: 700; }
+
+
+
+table.cun-table {
+	max-width: 800px;
+}

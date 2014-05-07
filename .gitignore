@@ -1,4 +1,5 @@
 .htaccess
+api.txt
 wp-config.php
 wp-content/uploads/
 wp-content/blogs.dir/
@@ -11,3 +12,4 @@ sitemap.xml
 wp-content/cache/
 wp-content/backups/
 sitemap.xml.gz
+_old
